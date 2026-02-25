@@ -104,7 +104,7 @@ This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not 
 📄 License
 
 Copyright (C) 2026 Ghost Software
-https://github.com/somethingtaggers/Amethyst-Menu
+https://github.com/theghosttm/Amethyst-Menu
 
 This program is free software under the GNU General Public License v3.0.
 
