@@ -16,9 +16,7 @@ Whether you just want mods, are a developer, or anything in between, this menu h
 
 Why settle for boring when you can have stupidly good?
 🎬 Preview
-<p align="center"> <img src="https://your-gif-link-here/menu-preview1.gif" width="600"/> </p> <p align="center"> <img src="https://your-gif-link-here/menu-preview2.gif" width="600"/> </p>
-
-Replace the GIF links above with:
+SOON!
 
 A menu showcase
 
