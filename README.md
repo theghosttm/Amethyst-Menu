@@ -2,8 +2,15 @@
 <img width="1024" height="1024" alt="fc60efe1-ffc0-440a-b710-a9b8a5a7f183-Picsart-BackgroundRemover" src="https://github.com/user-attachments/assets/58989ba6-35da-469c-bd79-caf7c7a6ff2d" />
 
 AMT Menu
-<p align="center"> <img src="https://img.shields.io/github/stars/YOUR-USERNAME/REPO-NAME?style=for-the-badge&color=purple" /> <img src="https://img.shields.io/github/forks/YOUR-USERNAME/REPO-NAME?style=for-the-badge&color=blue" /> <img src="https://img.shields.io/github/license/YOUR-USERNAME/REPO-NAME?style=for-the-badge&color=green" /> <img src="https://img.shields.io/github/downloads/YOUR-USERNAME/REPO-NAME/total?style=for-the-badge&color=orange" /> <img src="https://img.shields.io/github/v/release/YOUR-USERNAME/REPO-NAME?style=for-the-badge&color=red" /> </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/VERSION-0.0.1-1f6feb?style=for-the-badge" />
+  <a href="https://discord.gg/ytT9RyMb">
+    <img src="https://img.shields.io/badge/DOWNLOAD-Amethyst_Menu_[By_Ghost]-22c55e?style=for-the-badge" />
+  </a>
+  <a href="https://discord.gg/ytT9RyMb">
+    <img src="https://img.shields.io/badge/DISCORD-100+_MEMBERS-8b5cf6?style=for-the-badge" />
+  </a>
+</p>
 AMT Menu is a feature-packed mod menu for Gorilla Tag, built by me, iiDk.
 Whether you just want mods, are a developer, or anything in between, this menu has you covered. Designed to be as useful as possible, it includes a wide variety of features and options that let you customize your modding experience to your heart’s content.
 
